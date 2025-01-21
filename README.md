@@ -1,2 +1,2 @@
 # Python
-This repo have code for python
+This is for my learning 
